@@ -1,0 +1,19 @@
+{
+    "name": "codemirror-autosuggest",
+    "version": "1.0.0",
+    "homepage": "https://github.com/samdark/codemirror-autosuggest",
+    "authors": [
+        "Alexander Makarov <sam@rmcreative.ru>"
+    ],
+    "description": "CodeMirror autosuggest",
+    "main": "autosuggest.js",
+    "keywords": [
+        "codemirror",
+        "suggest",
+		"autosuggest"
+    ],
+    "license": "BSD",
+    "dependencies": {
+        "CodeMirror": "*"
+    }
+}
